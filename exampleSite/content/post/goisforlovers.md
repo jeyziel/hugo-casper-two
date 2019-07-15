@@ -185,6 +185,10 @@ The first example above could be simplified as:
 
 ## Pipes
 
+```pythhon
+    def jeyziel():
+        print(123);
+```
 One of the most powerful components of go templates is the ability to
 stack actions one after another. This is done by using pipes. Borrowed
 from unix pipes, the concept is simple, each pipeline's output becomes the
